@@ -1,0 +1,17 @@
+C:\Users\chris\Source\Repos\Random Number Generator\Random Number Generator\bin\Debug\net6.0-windows\Random Number Generator.exe
+C:\Users\chris\Source\Repos\Random Number Generator\Random Number Generator\bin\Debug\net6.0-windows\Random Number Generator.deps.json
+C:\Users\chris\Source\Repos\Random Number Generator\Random Number Generator\bin\Debug\net6.0-windows\Random Number Generator.runtimeconfig.json
+C:\Users\chris\Source\Repos\Random Number Generator\Random Number Generator\bin\Debug\net6.0-windows\Random Number Generator.dll
+C:\Users\chris\Source\Repos\Random Number Generator\Random Number Generator\bin\Debug\net6.0-windows\Random Number Generator.pdb
+C:\Users\chris\Source\Repos\Random Number Generator\Random Number Generator\obj\Debug\net6.0-windows\Random Number Generator.vbproj.AssemblyReference.cache
+C:\Users\chris\Source\Repos\Random Number Generator\Random Number Generator\obj\Debug\net6.0-windows\Random_Number_Generator.Form1.resources
+C:\Users\chris\Source\Repos\Random Number Generator\Random Number Generator\obj\Debug\net6.0-windows\Random Number Generator.vbproj.GenerateResource.cache
+C:\Users\chris\Source\Repos\Random Number Generator\Random Number Generator\obj\Debug\net6.0-windows\Random Number Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Source\Repos\Random Number Generator\Random Number Generator\obj\Debug\net6.0-windows\Random Number Generator.AssemblyInfoInputs.cache
+C:\Users\chris\Source\Repos\Random Number Generator\Random Number Generator\obj\Debug\net6.0-windows\Random Number Generator.AssemblyInfo.vb
+C:\Users\chris\Source\Repos\Random Number Generator\Random Number Generator\obj\Debug\net6.0-windows\Random Number Generator.vbproj.CoreCompileInputs.cache
+C:\Users\chris\Source\Repos\Random Number Generator\Random Number Generator\obj\Debug\net6.0-windows\Random Number Generator.dll
+C:\Users\chris\Source\Repos\Random Number Generator\Random Number Generator\obj\Debug\net6.0-windows\refint\Random Number Generator.dll
+C:\Users\chris\Source\Repos\Random Number Generator\Random Number Generator\obj\Debug\net6.0-windows\Random Number Generator.pdb
+C:\Users\chris\Source\Repos\Random Number Generator\Random Number Generator\obj\Debug\net6.0-windows\Random Number Generator.genruntimeconfig.cache
+C:\Users\chris\Source\Repos\Random Number Generator\Random Number Generator\obj\Debug\net6.0-windows\ref\Random Number Generator.dll
